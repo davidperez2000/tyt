@@ -1,0 +1,85 @@
+#Contactanos {
+	
+	margin-left: 10%;
+	
+	position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+	
+	width: 80%;
+    opacity: 0.95;
+	
+	border-radius: 5px;
+}
+
+#info {
+ 
+	margin-top:30px;
+	margin-bottom:30px;
+	margin-left: 10%;
+	
+	position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: white;
+    background-clip: border-box;
+	
+	width: 80%;
+    opacity: 0.85;
+	
+	text-align:center;
+	font-weight:bold;
+	
+	border-radius: 5px;
+	
+}
+
+#info div {
+	
+	margin-top:15px;
+	
+}
+
+
+iframe {
+	
+	width:100%;
+	border-radius: 5px;
+	border:0px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
